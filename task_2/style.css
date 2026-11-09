@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+    margin: 20px;
+}
+.card {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+}
+.form {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid gray;
+    margin-top: 20px;
+}
+button {
+    padding: 10px;
+    margin: 5px;
+}
+h1 {
+    color: black;
+}
+p {
+    margin: 10px 0;
+}
