@@ -1,0 +1,45 @@
+body {
+  background-color: #f4f4f4;
+  color: #126782;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 16px;
+}
+
+.report {
+  background-color: #ffffff;
+  color: #563aa1;
+  padding: 16px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.summary-card {
+  background: #b9e5d2;
+  color: #126782;
+  padding: 12px;
+  border: 1px solid #1a4f8b;
+  margin: 8px 0;
+}
+
+.result-list {
+  background-color: #ffffff;
+  color: #126782;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin: 8px 0;
+  list-style: none;
+}
+
+.result-item {
+  background-color: #fafafa;
+  color: #126782;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  margin: 4px 0;
+}
+
+.result-name {
+  color: #a23350;
+}
